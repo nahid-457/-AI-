@@ -1,7 +1,6 @@
 import { useState, useRef, useEffect } from "react";
 
-const GEMINI_KEY = "A
-"AIzaSyCZTNytS7na0U7AOVZ69RdJkQZyC1axny4; // 
+const GEMINI_KEY = "AIzaSyCZTNytS7na0U7AOVZ69RdJkQZyC1axny4; // 
 const VALID_CODES = ["MEDHA2024", "NAHID123", "PREMIUM01", "MEDHA001"];
 
 const MODES = [
